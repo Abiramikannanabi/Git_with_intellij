@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945d9ff3-cb90-4211-adfb-4ff4b322db51" name="Changes" comment="sample file updated">
-      <change beforePath="D:/JavaLearning/.idea/workspace.xml" beforeDir="false" afterPath="D:/JavaLearning/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="945d9ff3-cb90-4211-adfb-4ff4b322db51" name="Changes" comment="workspace" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,6 +120,9 @@
     <MESSAGE value="sample commit" />
     <MESSAGE value="sample changed" />
     <MESSAGE value="sample file updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="sample file updated" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="stash message to main" />
+    <MESSAGE value="stash" />
+    <option name="LAST_COMMIT_MESSAGE" value="stash" />
   </component>
 </project>
